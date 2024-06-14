@@ -5,3 +5,5 @@ DAM_Runs_Integrator.R is an R program designed to combine data from different be
 2.	Rename Monitor Files: Avoid conflicts by renaming monitor files if they share the same name in different runs.
 3.	Combine Genotype Specification Files: Prepare a combined genotype specification file for analysis using SleepMat, a behavioral analysis software program for the DAM system.
 These processes enable multiple run analyses using [SleepMat](https://github.com/shijusisobhan/SleepMat2022.1).
+
+Please read the user guide for more information.
